@@ -3,12 +3,35 @@ Character Files for CoS
 
 ## Git Workflow
 
+### Initial Setup
+
+Install git if you do not have it (https://git-scm.com/download/)
+
+Decide where you want your character sheet to live w/in your file system
+
+Open up a terminal (cmd+Space then search terminal)
+
+```
+cd <where you want your character sheet folder to live>
+```
+
+```
+git clone https://github.com/zeke-long/CoS_Characters.git
+```
+
 ### Start of a Session
+
+Open a terminal (cmd+Space then search for terminal)
+
+```
+cd <path to your character sheet's folder>
+```
+
 ```
 git pull
 ```
 
-**MOST IMPORTANT STEP**
+VV **MOST IMPORTANT STEP** VV
 ```
 git checkout -b <Your Name> 
 ```
@@ -35,4 +58,4 @@ git push
 
 1. Go to https://github.com/zeke-long/CoS_Characters
 2. At the top where it says "Do you want to make a pull request?" - click yes
-3. Fill out the request
+3. Fill out the request - don't merge
