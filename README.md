@@ -8,6 +8,7 @@ Character Files for CoS
 git pull
 ```
 
+**MOST IMPORTANT STEP**
 ```
 git checkout -b <Your Name> 
 ```
