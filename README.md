@@ -3,6 +3,8 @@ Character Files for CoS
 
 ## Git Workflow
 
+---
+
 ### Initial Setup
 
 Install git if you do not have it (https://git-scm.com/download/)
@@ -18,6 +20,8 @@ cd <where you want your character sheet folder to live>
 ```
 git clone https://github.com/zeke-long/CoS_Characters.git
 ```
+
+---
 
 ### Start of a Session
 
@@ -36,9 +40,12 @@ VV **MOST IMPORTANT STEP** VV
 git checkout -b <Your Name> 
 ```
 
+---
 ### During a Session
 
 Just make changes as you would normally
+
+---
 
 ### End of a Session (If You Have Updates)
 ```
@@ -53,6 +60,8 @@ git commit -m "<Some Message About Updates>"
 git push
 ```
 (This may have something that pops up and says like "You need to do this instead" - do that instead)
+
+---
 
 ### If you want to make my life easier
 
