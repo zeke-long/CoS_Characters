@@ -59,3 +59,4 @@ git push
 1. Go to https://github.com/zeke-long/CoS_Characters
 2. At the top where it says "Do you want to make a pull request?" - click yes
 3. Fill out the request - don't merge
+
